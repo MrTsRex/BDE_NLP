@@ -1,0 +1,1 @@
+This repository contains the code for sentiment analysis NLP assignment for our Big data ecosystem class.
